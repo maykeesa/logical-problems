@@ -1,13 +1,12 @@
-# SQL-Problems
-Repositório de questões de SQL
+# SQL Problems - 🗃️
+Repositório de questões de SQL, do HackerRank e BeeCrowd.
 
 ##
 
 <br>
 
 <p align="center">  
-	<br>
-	<a href="https://www.hackerrank.com/">
+    <a href="https://www.hackerrank.com/">
         <img height=95 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg"> 
     </a>
 </p>
@@ -38,7 +37,6 @@ Repositório de questões de SQL
 ##
 
 <p align="center">  
-	<br>
 	<a href="https://www.beecrowd.com.br/">
         <img height=230 src="https://beecrowd.io/wp-content/uploads/2021/08/beecrowd__roxoHorClean-small-PNG-1.png"> 
     </a>
