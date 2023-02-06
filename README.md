@@ -8,7 +8,7 @@ Repositório de questões de SQL
 <p align="center">  
 	<br>
 	<a href="https://www.hackerrank.com/">
-        <img height=100 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg"> 
+        <img height=95 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg"> 
     </a>
 </p>
 
@@ -40,7 +40,7 @@ Repositório de questões de SQL
 <p align="center">  
 	<br>
 	<a href="https://www.beecrowd.com.br/">
-        <img height=250 src="https://camo.githubusercontent.com/38d44389f0e6e510bcd916cffb484df9026d4d374160c290f94d1d3db4efb3ca/68747470733a2f2f7777772e62656563726f77642e636f6d2e62722f686f6d652f77702d636f6e74656e742f75706c6f6164732f323032312f30382f62656563726f77645f5f726f786f486f72436c65616e2d736d616c6c2d504e472d312e706e67"> 
+        <img height=230 src="https://camo.githubusercontent.com/38d44389f0e6e510bcd916cffb484df9026d4d374160c290f94d1d3db4efb3ca/68747470733a2f2f7777772e62656563726f77642e636f6d2e62722f686f6d652f77702d636f6e74656e742f75706c6f6164732f323032312f30382f62656563726f77645f5f726f786f486f72436c65616e2d736d616c6c2d504e472d312e706e67"> 
     </a>
 </p>
 
