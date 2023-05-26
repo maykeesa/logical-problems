@@ -17,7 +17,7 @@ Repositório de questões de SQL, do HackerRank e BeeCrowd.
 
 | Número | Questão | Solução |
 |:------:|------------|:---------:|
-| 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [SQL](https://github.com/MaykeESA/SQL-Problems/blob/master/Basica%20Select/Q1.sql)
+| 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [SQL](https://github.com/MaykeESA/SQL-Problems/blob/master/HackerRank/Basica%20Select/Q1.sql)
 | 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [SQL](https://github.com/MaykeESA/SQL-Problems/blob/master/Basica%20Select/Q2.sql)
 | 3 | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [SQL](https://github.com/MaykeESA/SQL-Problems/blob/master/Basica%20Select/Q3.sql)
 | 4 | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | [SQL](https://github.com/MaykeESA/SQL-Problems/blob/master/Basica%20Select/Q4.sql)
