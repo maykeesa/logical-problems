@@ -68,11 +68,13 @@ Repositório de Logical Problems, do HackerRank, BeeCrowd, ProjectEuler e Exerci
 
 | Number | Questão | Solution |
 |:------:|------------|:---------:|
-| 1 | [Multiples of 3 or 5](https://projecteuler.net/problem=1) | [Link](https://github.com/MaykeESA/Logical-Problems/blob/master/ProjectEuler/Problem1.py)
-| 2 | [Even Fibonacci numbers](https://projecteuler.net/problem=2) | [Link](https://github.com/MaykeESA/Logical-Problems/tree/master/ProjectEuler/Problem2.py)
-| 3 | [Largest prime factor](https://projecteuler.net/problem=3) | [Link](https://github.com/MaykeESA/Logical-Problems/tree/master/ProjectEuler/Problem3.py)
+| 1 | [Multiples of 3 or 5](https://projecteuler.net/problem=1) | [Link](https://github.com/maykeesa/logical-problems/blob/master/ProjectEuler/Problem1.py)
+| 2 | [Even Fibonacci numbers](https://projecteuler.net/problem=2) | [Link](https://github.com/maykeesa/logical-problems/blob/master/ProjectEuler/Problem2.py)
+| 3 | [Largest prime factor](https://projecteuler.net/problem=3) | [Link](https://github.com/maykeesa/logical-problems/blob/master/ProjectEuler/Problem3.py)
 
 ##
+
+<br>
 
 <p align="center">  
 	<a href="https://exercism.org/">
@@ -84,4 +86,4 @@ Repositório de Logical Problems, do HackerRank, BeeCrowd, ProjectEuler e Exerci
 
 | Number | Questão | Solution |
 |:------:|------------|:---------:|
-| 1 | [Hello World](https://exercism.org/tracks/java/exercises/hello-world) | [Link](https://github.com/MaykeESA/Logical-Problems/blob/master/ProjectEuler/Problem1.py)
+| 1 | [Hello World](https://exercism.org/tracks/java/exercises/hello-world) | [Link](https://github.com/maykeesa/logical-problems/blob/master/Exercism/Java/Pratice/hello-world/Greeter.java)
