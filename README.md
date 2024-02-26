@@ -1,5 +1,5 @@
-# SQL Problems - 🗃️
-Repositório de questões de SQL, do HackerRank e BeeCrowd.
+# Logical Problems - 🗃️
+Repositório de Logical Problems, do HackerRank, BeeCrowd, ProjectEuler e Exercism.
 
 ##
 
@@ -13,9 +13,9 @@ Repositório de questões de SQL, do HackerRank e BeeCrowd.
 
 <br>
 
-### Basic Select Challenges
+### SQL
 
-| Número | Questão | Solução |
+| Number | Question | Solution |
 |:------:|------------|:---------:|
 | 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [SQL](https://github.com/MaykeESA/SQL-Problems/blob/master/HackerRank/Basic%20Select/Q1.sql)
 | 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [SQL](https://github.com/MaykeESA/SQL-Problems/blob/master/Basica%20Select/Q2.sql)
@@ -44,7 +44,7 @@ Repositório de questões de SQL, do HackerRank e BeeCrowd.
 
 ### SQL
 
-| Número | Questão | Solução |
+| Number | Question | Solution |
 |:------:|------------|:---------:|
 | 1 | [2602](https://www.beecrowd.com.br/judge/pt/problems/view/2602) | [SQL](https://github.com/MaykeESA/sql-problems/blob/master/BeeCrowd/2602.sql)
 | 2 | [2603](https://www.beecrowd.com.br/judge/pt/problems/view/2603) | [SQL](https://github.com/MaykeESA/sql-problems/blob/master/BeeCrowd/2603.sql)
@@ -53,3 +53,35 @@ Repositório de questões de SQL, do HackerRank e BeeCrowd.
 | 5 | [2606](https://www.beecrowd.com.br/judge/pt/problems/view/2606) | [SQL](https://github.com/MaykeESA/sql-problems/blob/master/BeeCrowd/2606.sql)
 | 6 | [2607](https://www.beecrowd.com.br/judge/pt/problems/view/2607) | [SQL](https://github.com/MaykeESA/sql-problems/blob/master/BeeCrowd/2607.sql)
 | 7 | [2608](https://www.beecrowd.com.br/judge/pt/problems/view/2608) | [SQL](https://github.com/MaykeESA/sql-problems/blob/master/BeeCrowd/2608.sql)
+
+##
+
+<br>
+
+<p align="justify">  
+	<br>
+	<a href="https://projecteuler.net/about">
+        <img height=300 src="https://projecteuler.net/images/clipart/euler_portrait.png"> 
+        <img height=110 src="https://projecteuler.net/themes/logo_default.png"> 
+    </a>
+</p>
+
+| Number | Questão | Solution |
+|:------:|------------|:---------:|
+| 1 | [Multiples of 3 or 5](https://projecteuler.net/problem=1) | [Link](https://github.com/MaykeESA/Logical-Problems/blob/master/ProjectEuler/Problem1.py)
+| 2 | [Even Fibonacci numbers](https://projecteuler.net/problem=2) | [Link](https://github.com/MaykeESA/Logical-Problems/tree/master/ProjectEuler/Problem2.py)
+| 3 | [Largest prime factor](https://projecteuler.net/problem=3) | [Link](https://github.com/MaykeESA/Logical-Problems/tree/master/ProjectEuler/Problem3.py)
+
+##
+
+<p align="center">  
+	<a href="https://exercism.org/">
+        <img src="https://hermes.dio.me/articles/cover/623d27f8-d80e-4c07-a4da-c0632c4834e1.png"> 
+    </a>
+</p>
+
+### Java
+
+| Number | Questão | Solution |
+|:------:|------------|:---------:|
+| 1 | [Hello World](https://exercism.org/tracks/java/exercises/hello-world) | [Link](https://github.com/MaykeESA/Logical-Problems/blob/master/ProjectEuler/Problem1.py)
