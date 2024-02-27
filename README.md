@@ -78,7 +78,7 @@ Repositório de Logical Problems, do HackerRank, BeeCrowd, ProjectEuler e Exerci
 
 <p align="center">  
 	<a href="https://exercism.org/">
-        <img src="https://hermes.dio.me/articles/cover/623d27f8-d80e-4c07-a4da-c0632c4834e1.png"> 
+        <img src="https://cdn.discordapp.com/attachments/817401092752932916/1211840729463267379/623d27f8-d80e-4c07-a4da-c0632c4834e1.png?ex=65efa9a0&is=65dd34a0&hm=ae102756f0a19d0f2a9af3ddd107fd13d4a14c7420a41a254018e04c792b5d26&"> 
     </a>
 </p>
 
