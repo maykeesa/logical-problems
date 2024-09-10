@@ -5,7 +5,7 @@ Repositório de Logical Problems, do HackerRank, BeeCrowd, ProjectEuler e Exerci
 
 <br>
 
-<p align="center">  
+<p align="left">  
     <a href="https://www.hackerrank.com/">
         <img height=95 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg"> 
     </a>
@@ -36,9 +36,11 @@ Repositório de Logical Problems, do HackerRank, BeeCrowd, ProjectEuler e Exerci
 
 ##
 
-<p align="center">  
+<br>
+
+<p align="left">  
 	<a href="https://www.beecrowd.com.br/">
-        <img height=230 src="https://beecrowd.io/wp-content/uploads/2021/08/beecrowd__roxoHorClean-small-PNG-1.png"> 
+        <img height=230 height=auto src="https://drive.google.com/uc?export=view&id=1vbhoxKD13DhvU5MLv2ji-NtetG2MxOmR"> 
     </a>
 </p>
 
@@ -76,9 +78,9 @@ Repositório de Logical Problems, do HackerRank, BeeCrowd, ProjectEuler e Exerci
 
 <br>
 
-<p align="center">  
+<p align="left">  
 	<a href="https://exercism.org/">
-        <img src="https://cdn.discordapp.com/attachments/817401092752932916/1211840729463267379/623d27f8-d80e-4c07-a4da-c0632c4834e1.png?ex=65efa9a0&is=65dd34a0&hm=ae102756f0a19d0f2a9af3ddd107fd13d4a14c7420a41a254018e04c792b5d26&"> 
+        <img width=800 height=auto src="https://drive.google.com/uc?export=view&id=11RAmp-iSk2gPtF42MiNS8Cpg1g5RD042"> 
     </a>
 </p>
 
