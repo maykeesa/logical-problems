@@ -1,5 +1,5 @@
 # Logical Problems - 🗃️
-Repositório de Logical Problems, do HackerRank, BeeCrowd, ProjectEuler e Exercism.
+- Repositório de Logical Problems, do HackerRank, BeeCrowd, ProjectEuler e Exercism.
 
 ##
 
